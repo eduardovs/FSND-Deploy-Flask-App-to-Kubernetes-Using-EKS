@@ -19,6 +19,7 @@ __pycache__
 .env_file
 .vscode
 
+
 # Coverage reports
 htmlcov/
 .coverage
